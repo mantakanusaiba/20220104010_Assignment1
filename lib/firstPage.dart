@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'secondPage.dart';
 import 'book.dart';
-
 class FirstPage extends StatelessWidget {
   final List<Book> books = [
     Book(
